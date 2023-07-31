@@ -1,0 +1,1 @@
+Landing Page project for the online Odin Project course.
